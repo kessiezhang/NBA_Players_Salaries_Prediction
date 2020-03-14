@@ -24,8 +24,8 @@ In a terminal or command window, navigate to the top-level project directory and
 
 
 ```bash
-Project 2 Web Scraping.ipynb
-Project 2 NBA Player Salary Predictions-Final.ipynb
+01 - Web Scraping.ipynb	
+02 - NBA Player Salary Predictions-Final.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
