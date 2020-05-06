@@ -31,7 +31,7 @@ In a terminal or command window, navigate to the top-level project directory and
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-#### Data:
+### Data:
 
  * Team Rating: https://www.basketball-reference.com/leagues/NBA_2019_ratings.html
  * NBA Player Salaries: http://www.espn.com/nba/salaries/_/year/2019/page/
